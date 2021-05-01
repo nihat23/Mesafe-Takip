@@ -1,0 +1,10 @@
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\bin\Debug\Mesafe Hesaplama.exe.config
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\bin\Debug\Mesafe Hesaplama.exe
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\bin\Debug\Mesafe Hesaplama.pdb
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe Hesaplama.csprojAssemblyReference.cache
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe_Hesaplama.Form1.resources
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe_Hesaplama.Properties.Resources.resources
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe Hesaplama.csproj.GenerateResource.cache
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe Hesaplama.csproj.CoreCompileInputs.cache
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe Hesaplama.exe
+D:\VB\Mesafe Hesaplama\Mesafe Hesaplama\obj\Debug\Mesafe Hesaplama.pdb
